@@ -1,1 +1,1 @@
-This folder contains the Power BI dashboard files and screenshot of dashboard.
+This folder contains the Excel and Power BI dashboard files and screenshot of dashboards.
